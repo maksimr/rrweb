@@ -1,3 +1,4 @@
+.npmrc
 .vscode/*
 !/.vscode/rrweb-monorepo.code-workspace
 .idea
