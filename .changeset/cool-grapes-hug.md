@@ -1,5 +1,5 @@
 ---
-'rrdom': patch
+'@studio/rrdom': patch
 ---
 
 Support `loop` in `RRMediaElement`

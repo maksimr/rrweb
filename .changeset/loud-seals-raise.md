@@ -1,6 +1,6 @@
 ---
-'rrweb-snapshot': patch
-'rrweb': patch
+'@studio/rrweb-snapshot': patch
+'@studio/rrweb': patch
 ---
 
 Fix duplicated shadow doms

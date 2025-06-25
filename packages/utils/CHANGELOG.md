@@ -1,4 +1,4 @@
-# @rrweb/utils
+# @studio/rrweb-utils
 
 ## 2.0.0-alpha.18
 

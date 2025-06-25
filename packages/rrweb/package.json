@@ -1,5 +1,5 @@
 {
-  "name": "rrweb",
+  "name": "@studio/rrweb",
   "version": "2.0.0-alpha.18",
   "description": "record and replay the web",
   "scripts": {
@@ -29,7 +29,7 @@
     "url": "git+ssh://git@github.com/rrweb-io/rrweb.git"
   },
   "keywords": [
-    "rrweb"
+    "@studio/rrweb"
   ],
   "main": "./dist/rrweb.umd.cjs",
   "module": "./dist/rrweb.js",
@@ -80,13 +80,13 @@
     "vite-plugin-dts": "^3.9.1"
   },
   "dependencies": {
-    "@rrweb/types": "^2.0.0-alpha.18",
-    "@rrweb/utils": "^2.0.0-alpha.18",
+    "@studio/rrweb-types": "^2.0.0-alpha.18",
+    "@studio/rrweb-utils": "^2.0.0-alpha.18",
     "@types/css-font-loading-module": "0.0.7",
     "@xstate/fsm": "^1.4.0",
     "base64-arraybuffer": "^1.0.1",
     "mitt": "^3.0.0",
-    "rrdom": "^2.0.0-alpha.18",
-    "rrweb-snapshot": "^2.0.0-alpha.18"
+    "@studio/rrdom": "^2.0.0-alpha.18",
+    "@studio/rrweb-snapshot": "^2.0.0-alpha.18"
   }
 }

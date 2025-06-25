@@ -7,8 +7,8 @@ import type {
   listenerHandler,
   eventWithTime,
   mutationData,
-} from '@rrweb/types';
-import { EventType, IncrementalSource } from '@rrweb/types';
+} from '@studio/rrweb-types';
+import { EventType, IncrementalSource } from '@studio/rrweb-types';
 import {
   assertSnapshot,
   getServerURL,

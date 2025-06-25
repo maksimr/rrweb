@@ -1,6 +1,6 @@
 ---
-'rrweb-snapshot': patch
-'rrweb': patch
+'@studio/rrweb-snapshot': patch
+'@studio/rrweb': patch
 ---
 
 Snapshot performance when masking text: Avoid the repeated calls to `closest` when recursing through the DOM

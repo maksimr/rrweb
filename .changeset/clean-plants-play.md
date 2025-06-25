@@ -1,6 +1,6 @@
 ---
-'rrweb': patch
-'@rrweb/types': patch
+'@studio/rrweb': patch
+'@studio/rrweb-types': patch
 ---
 
 Compact style mutation fixes and improvements

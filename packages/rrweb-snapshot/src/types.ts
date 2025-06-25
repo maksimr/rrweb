@@ -1,4 +1,4 @@
-import type { serializedNodeWithId } from '@rrweb/types';
+import type { serializedNodeWithId } from '@studio/rrweb-types';
 
 export type tagMap = {
   [key: string]: string;

@@ -1,5 +1,5 @@
 ---
-'rrweb-snapshot': patch
+'@studio/rrweb-snapshot': patch
 ---
 
 Fix CSS rules captured in Safari

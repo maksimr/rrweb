@@ -1,5 +1,5 @@
 ---
-"rrweb": patch
+"@studio/rrweb": patch
 ---
 
 Export takeFullSnapshot function for a recording process

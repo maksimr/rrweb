@@ -1,5 +1,5 @@
 ---
-'rrdom': patch
+'@studio/rrdom': patch
 ---
 
 Fix: rrdom bugs

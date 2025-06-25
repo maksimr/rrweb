@@ -1,5 +1,5 @@
 ---
-'@rrweb/types': patch
+'@studio/rrweb-types': patch
 ---
 
 Add `loop` to `mediaInteractionParam`

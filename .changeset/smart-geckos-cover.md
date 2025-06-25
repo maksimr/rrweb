@@ -1,5 +1,5 @@
 ---
-'rrweb': patch
+'@studio/rrweb': patch
 ---
 
 Record `loop` on `<audio>` & `<video>` elements.

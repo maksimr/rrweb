@@ -1,5 +1,5 @@
 ---
-'rrweb': patch
+'@studio/rrweb': patch
 ---
 
 Fix: some websites rebuild imcomplete

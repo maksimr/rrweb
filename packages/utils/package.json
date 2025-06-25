@@ -1,12 +1,12 @@
 {
-  "name": "@rrweb/utils",
+  "name": "@studio/rrweb-utils",
   "version": "2.0.0-alpha.18",
   "publishConfig": {
     "access": "public"
   },
   "keywords": [
-    "rrweb",
-    "@rrweb/utils"
+    "@studio/rrweb",
+    "@studio/rrweb-utils"
   ],
   "scripts": {
     "dev": "vite build --watch",
@@ -15,7 +15,7 @@
     "prepublish": "npm run build",
     "lint": "yarn eslint src/**/*.ts"
   },
-  "homepage": "https://github.com/rrweb-io/rrweb/tree/main/packages/@rrweb/utils#readme",
+  "homepage": "https://github.com/rrweb-io/rrweb/tree/main/packages/@studio/rrweb-utils#readme",
   "bugs": {
     "url": "https://github.com/rrweb-io/rrweb/issues"
   },

@@ -1,6 +1,6 @@
 ---
-"rrweb-snapshot": patch
-"rrweb": patch
+"@studio/rrweb-snapshot": patch
+"@studio/rrweb": patch
 ---
 
 Add slimDOM option to block animation on <title> tag; enabled when the 'all' value is used for slimDOM

@@ -1,5 +1,5 @@
 ---
-'rrweb': patch
+'@studio/rrweb': patch
 ---
 
 fix: protect against missing parentNode
