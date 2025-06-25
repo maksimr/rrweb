@@ -3,7 +3,7 @@ import config from '../../vite.config.default';
 
 export default config(
   {
-    all: path.resolve(__dirname, 'src/index.ts')
+    all: path.resolve(__dirname, 'src/index.ts'),
   },
-  'rrweb'
+  'rrweb',
 );

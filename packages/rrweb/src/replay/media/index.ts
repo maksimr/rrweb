@@ -3,7 +3,10 @@ import { MediaInteractions, ReplayerEvents } from '@studio/rrweb-types';
 import type { RRMediaElement } from '@studio/rrdom';
 import type { createPlayerService, createSpeedService } from '../machine';
 import type { Mirror } from '@studio/rrweb-snapshot';
-import type { mediaInteractionData, mediaAttributes } from '@studio/rrweb-types';
+import type {
+  mediaInteractionData,
+  mediaAttributes,
+} from '@studio/rrweb-types';
 
 type MediaState = {
   isPlaying: boolean;
